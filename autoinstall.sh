@@ -1,5 +1,5 @@
 #!/bin/sh
-INSTALL_DIR=~/
+INSTALL_DIR=~
 
 install_vimrc () {
     cd "$INSTALL_DIR"
@@ -19,4 +19,4 @@ install_vimrc () {
     echo "Installed and configured .vim, have fun."
 }
 
-install_vimrc
+install_vimr
