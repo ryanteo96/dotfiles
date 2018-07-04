@@ -19,4 +19,4 @@ install_vimrc () {
     echo "Installed and configured .vim, have fun."
 }
 
-install_vimr
+install_vimrc
